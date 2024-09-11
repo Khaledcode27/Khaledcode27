@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=khaledcode27&icon=2&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 [Khaled Hasan] – Web Developer<br><br>As a skilled web developer with [1] years of experience, I specialize in building responsive, user-friendly websites and web applications. My expertise spans across various front-end and back-end technologies, including HTML, CSS, JavaScript, [add relevant frameworks like React, Angular, or Vue], as well as server-side programming with [Node.js, PHP, Python, etc.].<br><br>I am passionate about creating clean, maintainable code and staying up-to-date with the latest industry trends to ensure my projects are efficient and scalable. Whether working independently or as part of a team, I excel at solving complex problems and delivering high-quality solutions tailored to meet business objectives.<br><br>Having collaborated with clients from a variety of industries, I understand the importance of aligning technology with business needs. I'm committed to improving user experience, optimizing performance, and delivering projects on time and within budget.<br><br>Let's create something amazing together!
 
